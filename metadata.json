@@ -1,0 +1,5 @@
+{
+  "name": "Visual Fraction Adder",
+  "description": "An interactive educational tool that visually models adding fractions using bar models, demonstrating finding common denominators and combining parts.",
+  "requestFramePermissions": []
+}
